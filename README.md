@@ -10,10 +10,10 @@ TokenUsers is a simple app that shows us all of the APFS Secure Token users on a
 TokenUsers, and the CLI version `tokenusers` gives you a simple list of the users by both name and UUID. It's like peanut butter and chocolate, but with cryptographic tokens and user names.
 
 Here is what the CLI output looks like:
-![]()
+!["CLI"](images/CLI.png "CLI")
 
 Here is the GUI app:
-![]()
+!["GUI"](images/GUI.png "GUI")
 
 # Concepts You Might Accidently Learn
 If you start at the begining of the folders we first build the CLI app and transition to the GUI version. There are Swift Playgrounds in each step as well that you can use to get a feel for each API that we use along the way. Each step builds upon the last.
