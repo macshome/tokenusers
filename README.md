@@ -33,3 +33,7 @@ If we were to look at the order in which you are exposed to concepts it looks li
 8. Basics of Swift text formatting and interlopation.
 9. Using archiving in Xcode to make a distribution build.
 10. Adding a new target in Xcode and sharing code between your CLI and GUI apps. Also that whole GUI version thing.
+
+Overall the entire thing makes more sense with me talking about it all day long. Maybe if I have some of that "free time" thing one day I can record videos of each step!
+
+Enjoy.
