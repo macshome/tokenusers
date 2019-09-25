@@ -19,7 +19,7 @@ Here is the GUI app:
 !["GUI"](images/GUI.png "GUI")
 
 # Concepts You Might Accidently Learn
-If you start at the begining of the folders we first build the CLI app and transition to the GUI version. There are Swift Playgrounds in each step as well that you can use to get a feel for each API that we use along the way. Each step builds upon the last.
+If you start at the begining of the folders we first build the CLI app and transition to the GUI version. There are Swift Playgrounds in each step as well that you can use to get a feel for each API that we use along the way. Each step builds upon the last. Note that there is a seperate copy of the project in each folder. This way you can easily compare what was added.
 
 If we were to look at the order in which you are exposed to concepts it looks like this...
 
